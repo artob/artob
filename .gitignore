@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Editor backup files
+*~
+
+# Pandoc outputs
+*.html
